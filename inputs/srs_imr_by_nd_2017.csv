@@ -1,0 +1,69 @@
+﻿ADM1_CODE,ADM1_NAME,nd_name,nd_code,num_sample_units,ns_rural,ns_urban,est_birth_rate,est_death_rate,est_imr
+1,Jammu & Kashmir,Mountainous,1,133,70,63,13.2,5.1,19
+1,Jammu & Kashmir,Outer Hills,2,73,66,7,17.8,4.3,22
+1,Jammu & Kashmir,Jhelam Valley,3,73,41,32,15.2,4.9,24
+1,Jammu & Kashmir,Ladakh,4,71,49,22,15.4,4.9,22
+3,Punjab,Northern,1,118,62,56,14.6,7,20
+3,Punjab,Southern,2,131,68,63,15.2,7,22
+6,Haryana,Eastern,1,155,75,80,20.2,5.6,30
+6,Haryana,Western,2,101,69,32,21,6.2,30
+8,Rajasthan,Western,1,73,51,22,23.3,5.4,39
+8,Rajasthan,North Eastern,2,81,49,32,24.1,6,38
+8,Rajasthan,Southern,3,49,39,10,26.4,6.3,41
+8,Rajasthan,South Eastern,4,65,41,24,25.5,6.5,39
+8,Rajasthan,Northern,5,82,56,26,22.2,6.1,36
+9,Uttar Pradesh,Northern Upper Ganga Plain,1,119,61,58,22.1,6,28
+9,Uttar Pradesh,Central,2,101,64,37,23.2,5.9,45
+9,Uttar Pradesh,Eastern,3,98,81,17,29.8,7.3,43
+9,Uttar Pradesh,Southern,4,96,66,30,24.2,7.1,40
+9,Uttar Pradesh,Southern Upper Ganga Plain,5,86,56,30,22.4,6.5,43
+10,Bihar,Northern,1,158,96,62,26.3,5.8,36
+10,Bihar,Central,2,172,104,68,26.7,5.9,35
+18,Assam,Plains Eastern,1,70,21,49,21.1,7,33
+18,Assam,Plains Western,2,87,26,61,21.3,6,42
+18,Assam,Cachar Plain,3,73,22,51,21.8,7.1,52
+18,Assam,Central Brahamputra plains,4,70,21,49,20.7,6.5,52
+19,West Bengal,Himalayan,1,93,62,31,15.2,5.8,22
+19,West Bengal,Eastern Plains,2,62,46,16,18.1,5.4,33
+19,West Bengal,Southern Plains,3,150,81,69,14.4,5.7,18
+19,West Bengal,Central Plains,4,155,54,101,12.5,6.3,18
+19,West Bengal,Western Plains,5,95,61,34,14.8,5.8,19
+20,Jharkhand,Ranchi Plateau,1,118,51,67,22.2,5.8,29
+20,Jharkhand,Hazaribagh Plateau,2,93,40,53,23.1,5.4,29
+21,Orissa,Coastal,1,193,138,55,17.8,6.3,31
+21,Orissa,Southern,2,137,98,39,19.1,8.2,44
+21,Orissa,Northern,3,75,54,21,17.9,7.9,48
+22,Chattisgarh,Northern Chhattisgarh,1,53,24,29,23.1,8,41
+22,Chattisgarh,Mahanadi Basin,2,71,33,38,22.4,7.3,38
+22,Chattisgarh,Southern Chhattisgarh,3,34,16,18,24,8.9,36
+23,Madhya Pradesh,Vindhya,1,65,35,30,27,8.1,46
+23,Madhya Pradesh,Central,2,79,45,34,22,6,48
+23,Madhya Pradesh,Malwa,3,67,41,26,24.7,6.3,45
+23,Madhya Pradesh,South,4,90,59,31,23,7.5,43
+23,Madhya Pradesh,South Western,5,94,66,28,23.4,6.6,44
+23,Madhya Pradesh,Northern,6,53,39,14,27.5,6,53
+24,Gujarat,South Eastern,1,78,53,25,21.7,6,30
+24,Gujarat,Plains Northern,2,116,53,63,19,6.8,32
+24,Gujarat,Dry areas,3,122,51,71,21,6,34
+24,Gujarat,Saurashtra,4,162,74,88,17.7,6.1,26
+27,Maharashtra,Coastal,1,179,28,151,15.6,4.7,14
+27,Maharashtra,Inland Western,2,95,65,30,14.8,5.7,16
+27,Maharashtra,Inland Northern,3,83,46,37,18.3,5.9,18
+27,Maharashtra,Inland Central,4,79,40,39,17.6,5.6,24
+27,Maharashtra,Inland Eastern,5,142,73,69,14.4,6.4,24
+27,Maharashtra,Eastern,6,84,54,30,14.1,7.9,28
+29,Karnataka,Coastal & Ghats,1,227,160,67,13.8,6.4,13
+29,Karnataka,Inland Eastern,2,119,84,35,14.3,8.3,18
+29,Karnataka,Inland Southern,3,58,41,17,16,6.9,25
+29,Karnataka,Inland Northern,4,107,76,31,19.5,6.1,27
+32,Kerala,Northern,1,110,66,44,16.8,6.2,12
+32,Kerala,Southern,2,170,109,61,12,7.4,7
+33,Tamil Nadu,Coastal Northern,1,198,80,118,15.6,5.8,16
+33,Tamil Nadu,Coastal,2,87,54,33,14.8,7.3,17
+33,Tamil Nadu,Southern,3,138,57,81,15.1,7.2,18
+33,Tamil Nadu,Inland,4,122,44,78,13.9,7,14
+36,Telangana,Inland North Western,1,111,46,65,17.1,6.2,28
+36,Telangana,Inland North Eastern,2,113,75,38,17.4,7.2,29
+37,Andhra Pradesh,Coastal Northern,1,115,73,42,15.2,8,32
+37,Andhra Pradesh,Coastal Southern,2,114,67,47,16.6,7.4,33
+37,Andhra Pradesh,Inland Southern,3,96,58,38,16.9,6.3,31
